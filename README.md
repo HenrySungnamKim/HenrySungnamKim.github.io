@@ -4,8 +4,6 @@
 
 ## 인사의 말
 
----
-
 안녕하세요
 
 효율을 중시하고 누구나 알아보기 쉬운 개발을 하고 싶은,
@@ -14,21 +12,19 @@
 
 배우는 것을 즐기는 저와 함께 성장할 회사를 찾습니다 :)
 
-## 경험해 본 것들 (화살표 토글 시 상세 내용)
-
----
+## 경험해 본 것들
 
 > *프로그래밍 관련*
 
 - Java기반으로 GUI 예약 시스템 프로그램 제작.(2018년 4월)
 
-  java.swing 사용. DB 입/출력 기능 포함. 
+  java.swing 사용. DB 입/출력 기능 포함.
 
   ---
 
 - Model 1 방식으로 게시판 제작(2018년 4~5월)
 
-  제작 과정 블로그 정리 : [https://blog.naver.com/ksn569/221277493172](https://blog.naver.com/ksn569/221277493172)
+  제작 과정 블로그 정리 : [링크](https://blog.naver.com/ksn569/221277493172)
 
   동영상 강의 포함 내용 이외에 배운 내용을 바탕으로 댓글 기능 구현
 
@@ -36,7 +32,7 @@
 
 - Naver D2. Edwith 풀스택 웹 개발자 과정 수강(2018년 6월~)
 
-  *공부 내용 블로그 정리* : [http://marlinbar.tistory.com/category/Road to Developer/edwith풀스택웹개발자](http://marlinbar.tistory.com/category/Road%20to%20Developer/edwith%ED%92%80%EC%8A%A4%ED%83%9D%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90)
+  *공부 내용 블로그 정리* : [링크](http://marlinbar.tistory.com/category/Road%20to%20Developer/edwith%ED%92%80%EC%8A%A4%ED%83%9D%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90)
 
   ---
 
@@ -44,7 +40,7 @@
 
   Edwith 부스트코스 풀스택 웹 개발자 강좌의 2번째 프로젝트
 
-  Ajax 비동기 데이터 처리. JSON 데이터 처리. 
+  Ajax 비동기 데이터 처리. JSON 데이터 처리.
 
   ---
 
@@ -56,7 +52,7 @@
 
 - Spring 프레임 워크 사용 MVC 게시판 제작(2018년 7~8월)
 
-  Edwith 부스트코스 풀스택 웹 개발자 강좌의 3~6번째 프로젝트 : [https://www.edwith.org/boostcourse-web](https://www.edwith.org/boostcourse-web)
+  Edwith 부스트코스 풀스택 웹 개발자 강좌의 3~6번째 프로젝트 : [링크](https://www.edwith.org/boostcourse-web)
 
   ---
 
@@ -83,7 +79,7 @@
 
   - 팀 프로젝트 수행
 
-    1학년, 무동력 모형 비행기 제작, 참가한 팀들 중 최장거리 비행. 팀원들과 커뮤니케이션이 원활하도록 부 조장으로서 팀원들을 관리함. 
+    1학년, 무동력 모형 비행기 제작, 참가한 팀들 중 최장거리 비행. 팀원들과 커뮤니케이션이 원활하도록 부 조장으로서 팀원들을 관리함.
 
     2학년, 창의성 공학 발표, 다른 학과의 학년이 높은 선배들과 함께 프로젝트 진행. 의견 충돌 시 논리적으로 합의점을 찾아내어 프로젝트를 성공적으로 이끔.
 
@@ -99,11 +95,15 @@
 
     ANSYS를 활용한 구조 해석
 
+    ---
+
   - 수학 관련
 
     공업 수학을 바탕으로 수학적 접근
 
     통계학 과목 수강, 기본적인 통계 지식
+
+    ---
 
 - 어학 능력
 
@@ -115,6 +115,8 @@
 
   한자 능력 자격증 2급. 한자 잘 읽음
 
+  ---
+
 - 개인 성격
 
   자료를 모으고 정리를 잘 함. 대학 때 부터 모든 자료를 웹 하드에 저장, 분류하여 사용 중.
@@ -125,17 +127,15 @@
 
 ## 관심사 & 경험해 보고 싶은 것들
 
----
-
 AR 개발
 
 복잡한 DB 처리
 
 아이폰 앱 개발
 
-## 이력 사항
+  ---
 
----
+## 이력 사항
 
 - 부산 동아고등학교 졸업(2010.02)
 - 부산 부경대학교 기계공학과 입학(2010.03)
@@ -148,8 +148,6 @@ AR 개발
 
 ## 연락처
 
----
-
 Mobile : +82 010-2212-1474
 
 Email : ksn569@gmail.com
@@ -160,6 +158,6 @@ GitHub : [https://github.com/HenrySungnamKim](https://github.com/HenrySungnamKim
 
   (자기소개서, 포트폴리오) GitHubBlog : [https://henrysungnamkim.github.io/](https://henrysungnamkim.github.io/)
 
-  (공부내용 기록) TistoryBlog : http://marlibar.tistory.com
+  (공부내용 기록) TistoryBlog : [http://marlinbar.tistory.com/](http://marlinbar.tistory.com)
 
   (초기 블로그, 프로그래밍 기초, 여행기) NaverBlog : [https://blog.naver.com/ksn569](https://blog.naver.com/ksn569?proxyReferer=https%3A%2F%2Fwww.naver.com%2F)
