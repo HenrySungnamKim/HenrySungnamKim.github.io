@@ -3,7 +3,6 @@ layout: post
 title:  "About OS, 운영체제 강의 정리 1강"
 date:   2018-08-03
 excerpt: "이화여대 반효경 교수 운영체제 강의"
-project: false
 tag:
 - OS
 - 운영체제
