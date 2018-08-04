@@ -8,18 +8,17 @@ date: 2018-06-03
 comments: true
 ---
 
-<center><a href="https://HenrySungnamKim.github.io"><b>Henry Sungnam Kim</b></a> is a nomad who wants to live freely</center>
+<center>Positive Mind, Efficiency Oriented </center>
 ---
 ## _Intro_
-> Hi guys :D Thank you for visiting my web site.  
->  This is my portfolio page, if you have any questions,    
+> Hi guys :D Thank you for visit my web site.  
+> This is my portfolio page, if you have any questions,
 Please contact me with 'Email' or 'Comments'.
 
-## _Love_
-~~~
-Apple, Beer, Coding   
-~~~
 ![LizardSunset](/assets/img/LizardSunset.jpeg)
+at Lizard Island Resort, Australia. 17.06
+
+---
 
 # 자기 소개서
 
@@ -79,8 +78,6 @@ Apple, Beer, Coding
 
 - 대학교 운영체제 인터넷 강의 수강. (2018년 8월,  이화여대 반효경 교수님)
 
-  컴퓨터 사이언스 기초가 부족하다는 생각에 수강하게 되었습니다.
-
   ---
 
 - 생활 코딩 - 코딩 야학 프로젝트 Swift IOS 앱 만들기(2018년 8월1일~10일)
@@ -96,15 +93,15 @@ Apple, Beer, Coding
 - 대학 경험
   - 컴퓨터 하드웨어 동아리 '사람과슬기틀'
 
-    컴퓨터 하드웨어 조립 경험
+    컴퓨터 하드웨어 조립
 
   - 팀 프로젝트 수행
 
-    1학년, 무동력 모형 비행기 제작, 참가한 팀들 중 최장거리 비행. 팀원들과 커뮤니케이션이 원활하도록 부 조장으로서 팀원들을 관리함.
+    1학년, 무동력 모형 비행기 제작, 참가한 팀들 중 최장거리 비행. 팀원들과 커뮤니케이션이 원활하도록 부 조장으로서 팀원들을 관리함
 
-    2학년, 창의성 공학 발표, 다른 학과의 학년이 높은 선배들과 함께 프로젝트 진행. 의견 충돌 시 논리적으로 합의점을 찾아내어 프로젝트를 성공적으로 이끔.
+    2학년, 창의성 공학 발표, 다른 학과의 학년이 높은 선배들과 함께 프로젝트 진행. 의견 충돌 시 논리적으로 합의점을 찾아내어 프로젝트를 성공적으로 이끔
 
-    3학년, 황동 모형 제작, 분업을 통한 효율 경험, 이론과 실제의 차이를 배움.
+    3학년, 황동 모형 제작, 분업을 통한 효율 경험, 이론과 실제의 차이를 배움
 
     ---
 
