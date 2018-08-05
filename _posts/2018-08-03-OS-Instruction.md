@@ -6,6 +6,7 @@ excerpt: "Intro about OS"
 tag:
 - OS
 - 운영체제
+- Introduction
 - 강의 정리
 
 comments: true
@@ -13,6 +14,13 @@ comments: true
 # 1강. 운영체제 소개
 
 [강의 링크](https://core.ewha.ac.kr/publicview/C0101020140307151724641842?vmode=f)
+
+- [1강. 운영체제 소개](#1---------)
+- [Operating System, 운영체제란?](#operating-system--------)
+  * [운영체제의 목적](#--------)
+  * [운영체제의 분류](#--------)
+  * [여러가지 운영체제](#---------)
+  * [운영체제의 구조](#--------)
 
 # Operating System, 운영체제란?
 
