@@ -63,7 +63,9 @@
   ---
 
 - React Movie Informations Crawler (2018년 8월)
+
   라이브 사이트 : [링크](https://henrysungnamkim.github.io/movie-app)
+
   깃허브 소스 : [링크](https://github.com/henrysungnamkim/movie-app)
 
   ---

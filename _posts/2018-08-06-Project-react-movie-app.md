@@ -14,6 +14,7 @@ comments: true
 ## React로 작성된 Web-App입니다.
 
 프로젝트 라이브 링크 : [https://henrysungnamkim.github.io/movie-app/](https://henrysungnamkim.github.io/movie-app/)
+
 프로젝트 깃허브 링크 : [https://github.com/HenrySungnamKim/movie-app](https://github.com/HenrySungnamKim/movie-app)
 
 <img width="1395" alt="screenshot2018-08-06at3-25fd4fb8-8a2c-46e1-8bcc-496688f05109 46 17pm" src="https://user-images.githubusercontent.com/37807838/43701182-38205318-9990-11e8-98d4-954159276816.png">
@@ -30,7 +31,7 @@ Brew 설치
 
 터미널에서
 ```
-    /usr/bin/ruby -e "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/master/install](https://raw.githubusercontent.com/Homebrew/install/master/install))"
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 node 설치
 ```
