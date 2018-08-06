@@ -40,26 +40,26 @@ comments: true
 
 2. 사용자의 수에 따라
 
-- 단일 사용자(Single User)
-- 다중 사용자(Multi User)
+  - 단일 사용자(Single User)
+  - 다중 사용자(Multi User)
 
 3. 처리방식에 따라
 
-- 일괄 처리(batch processing)
+  - 일괄 처리(batch processing)
 
-  작업 요청의 일정량을 모아 한꺼번에 처리한다. 작업이 완전 종료될 때까지 기다려야 한다. (과거의 방식)
+    작업 요청의 일정량을 모아 한꺼번에 처리한다. 작업이 완전 종료될 때까지 기다려야 한다. (과거의 방식)
 
-- 시분할(time sharing)
+  - 시분할(time sharing)
 
-  여러 작업을 수행할 때 일정한 시간 단위로 분할하여 컴퓨터가 처리. 일괄처리 방식에 비해 짧은 응답시간을 갖음.
+    여러 작업을 수행할 때 일정한 시간 단위로 분할하여 컴퓨터가 처리. 일괄처리 방식에 비해 짧은 응답시간을 갖음.
 
-  Interactive한 방식
+    Interactive한 방식
 
-- 실시간(Realtime OS)
+  - 실시간(Realtime OS)
 
-  정해진 시간 안에 어떠한 일이 반드시 종료 됨이 보장되어야 하는 실시간 시스템을 위한 OS. (원자로/공장 제어, 반도체 장비, 로보트 제어)
+    정해진 시간 안에 어떠한 일이 반드시 종료 됨이 보장되어야 하는 실시간 시스템을 위한 OS. (원자로/공장 제어, 반도체 장비, 로보트 제어)
 
-  확장된 개념으로 Hard Realtime System (경성 실시간 시스템), Soft Realtime System(연성 실시간 시스템)이 있다.
+    확장된 개념으로 Hard Realtime System (경성 실시간 시스템), Soft Realtime System(연성 실시간 시스템)이 있다.
 
 ## 여러가지 운영체제
 
