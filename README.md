@@ -50,7 +50,7 @@
 
 - Spring 프레임 워크 사용 MVC 게시판 제작(2018년 7~8월)
 
-  Edwith 부스트코스 풀스택 웹 개발자 강좌의 3~6번째 프로젝트 : [링크](https://www.edwith.org/boostcourse-web)
+  Edwith 부스트코스 풀스택 웹 개발자 강좌의 3~6번째 프로젝트
 
   ---
 
@@ -58,11 +58,13 @@
 
   ---
 
-- 생활 코딩 - 코딩 야학 프로젝트 Swift IOS 앱 만들기(2018년 8월1일~10일)
+- 깃 허브 블로그 제작. 사용법 익힘 (2018년 8월)
 
   ---
 
-- 깃 허브 블로그 제작. 사용법 익힘 (2018년 8월)
+- React Movie Informations Crawler (2018년 8월)
+  라이브 사이트 : [링크](https://henrysungnamkim.github.io/movie-app)
+  깃허브 소스 : [링크](https://github.com/henrysungnamkim/movie-app)
 
   ---
 
@@ -95,7 +97,7 @@
 
   - 수학 관련
 
-    공업 수학을 바탕으로 수학적 접근
+    공업 수학을 바탕으로 수학적 접근 가
 
     통계학 과목 수강, 기본적인 통계 지식
 
@@ -127,7 +129,7 @@ AR 개발
 
 복잡한 DB 처리
 
-아이폰 앱 개발
+헤비 트래픽 처리
 
   ---
 
@@ -152,8 +154,8 @@ GitHub : [https://github.com/HenrySungnamKim](https://github.com/HenrySungnamKim
 
 - 개인 블로그
 
-  (자기소개서, 포트폴리오) GitHubBlog : [https://henrysungnamkim.github.io/](https://henrysungnamkim.github.io/)
+  (자기소개서, 포트폴리오) GitHub Blog : [https://henrysungnamkim.github.io/](https://henrysungnamkim.github.io/)
 
-  (공부내용 기록) TistoryBlog : [http://marlinbar.tistory.com/](http://marlinbar.tistory.com)
+  (공부내용 기록) Tistory Blog : [http://marlinbar.tistory.com/](http://marlinbar.tistory.com)
 
-  (초기 블로그, 프로그래밍 기초, 여행기) NaverBlog : [https://blog.naver.com/ksn569](https://blog.naver.com/ksn569?proxyReferer=https%3A%2F%2Fwww.naver.com%2F)
+  (초기 블로그, 프로그래밍 기초, 여행기) Naver Blog : [https://blog.naver.com/ksn569](https://blog.naver.com/ksn569?proxyReferer=https%3A%2F%2Fwww.naver.com%2F)
