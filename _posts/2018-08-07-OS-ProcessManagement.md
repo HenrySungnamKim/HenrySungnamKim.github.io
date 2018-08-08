@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Process Management"
+title:  "Process Management, 운영체제 강의 정리 4강"
 date:   2018-08-07
 excerpt: "Process의 생성과 종료 "
 tag:
@@ -10,6 +10,9 @@ tag:
 - Process
 comments: true
 ---
+* auto-gen TOC:
+{:toc}
+
 # 4강. Process Management
 
 강의 링크 : [https://core.ewha.ac.kr/publicview/C0101020140321144554159683?vmode=f](https://core.ewha.ac.kr/publicview/C0101020140321144554159683?vmode=f)
