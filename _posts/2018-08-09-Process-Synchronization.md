@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Process Synchronization, 운영체제 강의 정리 5강"
+title:  "Process Synchronization, 운영체제 강의 정리 6강"
 date:   2018-08-09
 excerpt: "Process Synchronization에 대해 알아보자."
 tag:
@@ -18,17 +18,17 @@ comments: true
 
 강의 링크 : [https://core.ewha.ac.kr/publicview/C0101020140401134252676046?vmode=f](https://core.ewha.ac.kr/publicview/C0101020140401134252676046?vmode=f)
 
-# 프로세스 동기화, Process Synchronization = 병행제어, Concurrency Control
+## 프로세스 동기화, Process Synchronization = 병행제어, Concurrency Control
 
 ## Race Condition
 
 여러 객체가 하나의 데이터를 동시에 접근하려고 하는 상태를 말한다.
 
-- 데이터의 최종 연산 결과는 마지막에 다룬 프로세스에 따라 달라진다.
+## 데이터의 최종 연산 결과는 마지막에 다룬 프로세스에 따라 달라진다.
 
   공유 데이터(Shared Data)의 동시접근(Consistency Access)은 데이터의 불일치(Inconsistency) 문제를 발생시킬 수 있다. 일관성(Consistency) 유지를 위해서 협력 프로세스 간의 실행 순서를 정해주는 메커니즘 필요
 
-- 어떤 경우에 데이터 불일치가 발생하는가? 상황별 해결방법은?
+## 어떤 경우에 데이터 불일치가 발생하는가? 상황별 해결방법은?
   - 커널 수행 중 인터럽트가 발생한 경우
 
     중요한 루틴을 처리할 때는 인터럽트가 들어와도 인터럽트 처리를 미루고 작업을 마친 뒤 인터럽트 처리
@@ -43,7 +43,7 @@ comments: true
 
     ✔︎ 무조건 접근을 제한하면 효율에 문제가 생긴다. 따라서 Critical Section(공유 데이터에 접근하는 코드)에 특별한 방법을 적용해야 한다.
 
-- Critical Section 문제를 해결하기 위한 조건
+## Critical Section 문제를 해결하기 위한 조건
   - Mutual Exclusion (상호 제외)
 
     한 프로세스가 Critical Section부분을 수행 중이면 다른 모든 프로세스는 Critical Section에 들어가면 안된다.
@@ -56,7 +56,7 @@ comments: true
 
     한 프로세스가 Critical Section에 들어가려고 요청한 후 부터 그 요청이 허용될 때까지 다른 프로세스들이 Critical Section에 들어가는 횟수에 한계가 있어야 한다.
 
-- Critical Section 문제를 해결하는 알고리즘
+## Critical Section 문제를 해결하는 알고리즘
   - Algorithm 1 : Synchronization Variable인 turn을 사용한다.
 
         //Process P_0
@@ -103,9 +103,10 @@ comments: true
 
     ✔︎ 이 알고리즘은 Busy Waiting(Spin lock)의 문제가 있다. CPU와 메모리를 사용하면서 대기하기 때문에 비효율적인 방법이다.
 
-- 하드웨어 적인 해결 방법. Synchronization Hardware
+## 하드웨어 적인 해결 방법. Synchronization Hardware
   - test & modify
-- Semaphores
+  
+## Semaphores
 
   앞의 알고리즘들을 추상화 시킨다. 두가지 타입으로 나누는데
 
