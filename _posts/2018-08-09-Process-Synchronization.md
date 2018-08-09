@@ -1,3 +1,19 @@
+---
+layout: post
+title:  "Process Synchronization, 운영체제 강의 정리 5강"
+date:   2018-08-09
+excerpt: "Process Synchronization에 대해 알아보자."
+tag:
+- OS
+- 운영체제
+- 강의 정리
+- Process
+- Synchronization
+comments: true
+---
+* auto-gen TOC:
+{:toc}
+
 # 6강. Process Synchronization
 
 강의 링크 : [https://core.ewha.ac.kr/publicview/C0101020140401134252676046?vmode=f](https://core.ewha.ac.kr/publicview/C0101020140401134252676046?vmode=f)
@@ -81,7 +97,7 @@
         	flag[i]=false;
         	remainder section
         }while(1);
-        
+
 
     두 프로세스가 동시에 접근하려 할 때, trun 값으로 critical section에 접근한다.
 
@@ -130,7 +146,7 @@
       	add this process s.L;
       	block();
       }
-      
+
       V(s):
       s.Value ++;
       if(s.value<=0){

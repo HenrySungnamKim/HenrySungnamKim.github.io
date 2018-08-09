@@ -1,4 +1,16 @@
-# 프로그래밍 기초 - 문제
+---
+layout: post
+title:  "Coding Interview 1.Programming Basic Questions"
+date:   2018-08-09
+excerpt: "코딩인터뷰 1장 프로그래밍 기본 문제"
+tag:
+- 코딩 인터뷰
+- 프로그래밍 기본 문제
+- 내용 정리
+comments: true
+---
+* auto-gen TOC:
+{:toc}
 
 # 프로그래밍 기초 문제
 
