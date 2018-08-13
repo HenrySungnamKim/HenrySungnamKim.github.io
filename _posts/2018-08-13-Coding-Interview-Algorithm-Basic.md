@@ -24,19 +24,20 @@ comments: true
 
 입력 함수에 따라 실행 시간이 증가하는 비율.
 
-Time Complexity | Name | Example |
-1 | Constant | Linked list 앞에 원소를 삽입할 때  |
-logn | Logrithmic | Sorted Array의 원소를 찾을 때 |
+|Time Complexity | Name | Example |
+|1 | Constant | Linked list 앞에 원소를 삽입할 때  |
+|logn | Logrithmic | Sorted Array의 원소를 찾을 때 |
 
-n | Linear | Unsorted Array의 원소를 찾을 때 |
+|n | Linear | Unsorted Array의 원소를 찾을 때 |
 
-nlogn | Linear Logrithmic | n개의 item을 'divide-and-conquer' Mergesort로 정렬할 때
+|nlogn | Linear Logrithmic | n개의 item을 'divide-and-conquer' Mergesort로 정렬할 때|
 
-n^2 | Quadratic | 그래프의 두개의 노드 중 가장 빠른 길
+|n^2 | Quadratic | 그래프의 두개의 노드 중 가장 빠른 길|
 
-n^3 | Cubic | Matrix Multiplication
+|n^3 | Cubic | Matrix Multiplication|
 
-2^n | Exponential | 하노이의 두개의 탑
+|2^n | Exponential | 하노이의 두개의 탑|
+{: rules="groups"}
 
 ## 알고리즘 분석
 

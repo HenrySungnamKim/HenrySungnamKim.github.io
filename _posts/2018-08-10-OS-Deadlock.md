@@ -93,8 +93,7 @@ Prevention과 Avoidance는 예방하는 방법. Detection and Recovery와 Ignora
 
     ✔︎ Resource Allocation Graph Algorithm 사용
 
-<img width="443" alt="screenshot2018-08-10at10-bf9f6cd5-0b06-4cde-b5da-8277f3c80f09 34 39am" src="https://user-images.githubusercontent.com/37807838/44011136-c3b2208a-9ef1-11e8-9801-1ea9890621b4.png">
-
+    <img width="443" alt="screenshot2018-08-10at10-bf9f6cd5-0b06-4cde-b5da-8277f3c80f09 34 39am" src="https://user-images.githubusercontent.com/37807838/44011136-c3b2208a-9ef1-11e8-9801-1ea9890621b4.png">
 
     이 방법은 Claim edge를 이용한다. 점선은 프로세스가 자원을 미래에 요청할 수 있음을 의미한다. 실제로 자원을 요청하면 점선은 실선으로 바뀐다. 실선으로 cycle이 생기지 않는 경우에만 요청한 자원을 할당한다.
 
