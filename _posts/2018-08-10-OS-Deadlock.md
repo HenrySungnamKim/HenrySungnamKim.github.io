@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deadlock, 운영체제 강의 정리 6강"
+title:  "Deadlock, 운영체제 강의 정리 7강"
 date:   2018-08-10
 excerpt: "Deadlock의 발생과 처리"
 tag:
@@ -13,7 +13,7 @@ comments: true
 * auto-gen TOC:
 {:toc}
 
-# 교착상태 , Deadlock
+# 7강. 교착상태 , Deadlock
 
 강의 링크 : [https://core.ewha.ac.kr/publicview/C0101020140411151510275738?vmode=f](https://core.ewha.ac.kr/publicview/C0101020140411151510275738?vmode=f)
 
